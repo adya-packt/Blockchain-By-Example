@@ -3,19 +3,19 @@
 
 This is the code repository for [Blockchain By Example](https://www.packtpub.com/big-data-and-business-intelligence/blockchain-example?utm_source=github&utm_medium=repository&utm_campaign=9781788475686), published by Packt.
 
-**Subtitle from EPIC**
+**A developer's guide to creating decentralized applications using Bitcoin, Ethereum, and Hyperledger**
 
 ## What is this book about?
-First Paragraph from the Long Description
+The blockchain is a revolution promising a new world without middlemen. Technically, it is an immutable and tamper-proof distributed ledger of all transactions across a peer-to-peer network. Blockchain technology created the backbone of a new type of internet based on trust, disintermediation, and decentralization.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
-* Learn how to manage users, groups, and permissions
-* Encrypt and decrypt disks with Linux Unified Key Setup /Luks
-* Setup SSH for remote access, and connect it to other nodes
-* Understand how to add, remove, and search for packages
-* Use NFS and Samba to share directories with other users
+This book covers the following exciting features:
+* Grasp the decentralized technology fundamentals to master blockchain principles.
+* Build blockchain projects on Bitcoin, Ethereum, and Hyperledger.
+* Build your own currency and a payment application using Bitcoin
+* Build Web3 Dapps and supply chain system using Hyperledger.
+* Write smart contracts, run your ICO and build tontine decentralized app using Ethereum
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/10DigitISBN) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788475682) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
@@ -33,9 +33,9 @@ if (test expression)
 ```
 
 **Following is what you need for this book:**
-Copy and paste the Audience section from the EPIC.
+If you are keen on learning how to build your own blockchain decentralized applications from scratch, then this book is what you need. Implement key building blocks of a blockchain ecosystem with this handy guide. It explains all the basic concepts required to develop intermediate projects.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-11).
 
 ### Software and Hardware List
 
